@@ -79,6 +79,12 @@ Cartão microsd
 
 - SanDisk Ultra microSDXC (16Gb e 64Gb)
 
+HUB USB Energizado
+
+- TP Link UH700
+
+As marcas citadas são apenas para fins de informação do setup utilizado e não necessáriamente uma propaganda dos fabricantes.
+
 ## TODO
 
 - Realizar configuração da rede sem fios
